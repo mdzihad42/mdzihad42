@@ -46,18 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-### 🔹 Languages  
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdzihad42&layout=compact&theme=tokyonight" />
-</p>
-
-### 🔹 Stats Overview  
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdzihad42&show_icons=true&theme=tokyonight" />
-</p>
-
 ### 🔹 Contribution Streak  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mdzihad42&theme=tokyonight" />
