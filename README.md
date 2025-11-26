@@ -48,19 +48,19 @@
 
 ## 📊 GitHub Stats
 
-### 🔹 Languages
+### 🔹 Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzihad42&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdzihad42&layout=compact&theme=tokyonight" />
 </p>
 
-### 🔹 Stats Overview
+### 🔹 Stats Overview  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdzihad42&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdzihad42&show_icons=true&theme=tokyonight" />
 </p>
 
-### 🔹 Contribution Streak
+### 🔹 Contribution Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdzihad42&theme=tokyonight" alt="github streak" />
+  <img src="https://streak-stats.demolab.com?user=mdzihad42&theme=tokyonight" />
 </p>
 
 ---
