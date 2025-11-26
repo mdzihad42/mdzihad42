@@ -5,9 +5,21 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdzihad42](https://github.com/mdzihad42)
 
-- 📫 How to reach me **muhammadzihad143@gmail.com**
+- 📫 How to reach me **mdzihad01793561142@gmail.com**
 
 - ⚡ Fun fact **✨ I love learning new tech and turning ideas into real web applications.**
+
+**📌 What I Do**
+
+✔️ Build full-stack web applications
+
+✔️ Develop REST APIs using Django REST Framework
+
+✔️ Create responsive UI with HTML, CSS, Bootstrap
+
+✔️ Develop interactive frontend apps with React
+
+✔️ Solve backend problems with Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
