@@ -21,7 +21,8 @@
 <ul>
   <li>🌱 Currently learning <strong>React.js</strong></li>
   <li>💼 All my projects: <a href="https://github.com/mdzihad42">GitHub Portfolio</a></li>
-  <li>📫 Email: <strong>muhammadzihad143@gmail.com</strong></li>
+  <li>📫 Email: <strong>zihadhossain.dev@gmail.com</strong></li>
+  <li>📫 Website: <a href="zihad.crsyndicate.info/">Portfolio</a></li>
   <li>⚡ Fun fact: <em>I turn ideas into real web apps!</em></li>
 </ul>
 
