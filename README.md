@@ -1,77 +1,135 @@
-<h1 align="center">🌟 MD ZIHAD HOSSAIN — Full-Stack Web Developer</h1>
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C4DFF&height=200&section=header&text=MD%20ZIHAD%20HOSSAIN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<div align="center">
-
-<h3>👋 Hi, I'm <strong>Zihad</strong></h3>
-<h3>💻 Django | DRF | Python | React | Full-Stack Developer</h3>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00E5FF&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Django+%7C+DRF+%7C+Python;React+Learner;Problem+Solver+%26+Tech+Enthusiast" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mdzihad42&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
-
-</div>
-
-<hr/>
-
-<h2>🌈 About Me</h2>
-<ul>
-  <li>🌱 Currently learning <strong>React.js</strong></li>
-  <li>💼 All my projects: <a href="https://github.com/mdzihad42">GitHub Portfolio</a></li>
-  <li>📫 Email: <strong>zihadhossain.dev@gmail.com</strong></li>
-  <li>📫 Website: <a href="https://zihad.crsyndicate.info/">Portfolio</a></li>
-  <li>⚡ Fun fact: <em>I turn ideas into real web apps!</em></li>
-</ul>
-
-<hr/>
-
-<h2>🔗 Connect With Me</h2>
-
-<p align="left">
-  <a href="https://bd.linkedin.com/in/md-zihad-hossain-580074387" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-
-  <a href="https://www.facebook.com/share/1j4cptseyf/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
-  </a>
-</p>
-
-<hr/>
-
-<h2>🛠️ Languages & Tools</h2>
+<h3 align="center">
+🚀 Full-Stack Web Developer | Django & React
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,react,js,html,css,bootstrap,git,linux&perline=6" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Django+%7C+DRF+%7C+Python+Expert;React+Frontend+Learner;Building+Real-World+Web+Apps;Clean+Code+%7C+Scalable+Systems" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdzihad42&label=Profile+Views&color=7C4DFF&style=flat"/>
+  <img src="https://img.shields.io/github/followers/mdzihad42?label=Followers&style=flat&color=00E5FF"/>
+  <img src="https://img.shields.io/github/stars/mdzihad42?label=Stars&style=flat&color=ffcc00"/>
+</p>
 
-<h2>🔥 GitHub Activity & Stats</h2>
+---
 
-<h3>🔹 GitHub Stats</h3>
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mdzihad42&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzihad42&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+## 👋 About Me
 
-<hr/>
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
-<h2>🎨 Animated Banner</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
-</div>
+I’m **MD Zihad Hossain**, a passionate **Full-Stack Web Developer** who loves building clean, scalable, and real-world applications.
 
-<hr/>
+I mainly work with **Django & Django REST Framework** for backend systems and I’m actively learning **React.js** to create smooth and modern user interfaces.
 
-<h2>🌌 Tech Motion Zone</h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</div>
+- 💡 Strong backend logic & API design  
+- 🧠 Problem solver mindset  
+- 🛠️ Love building systems from scratch  
+- 🚀 Always improving and learning  
 
-<hr/>
+---
 
-<h3 align="center">⭐ If you like my work, don't forget to star my repositories!</h3>
+## 🎯 Current Focus
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350"/>
+</p>
+
+- 🌱 Advanced **React.js**
+- ⚙️ Django REST API optimization
+- 🧩 Full-stack system architecture
+- 📦 Real-world project development
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css&perline=6"/>
+</p>
+
+### 🔹 Database & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,git,github,linux,bootstrap&perline=6"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
+</p>
+
+- 🧑‍💼 Job Portal & Resume Builder  
+- 🏫 School Management System  
+- 💬 Real-Time Chat Application  
+- 📝 Emotion Diary App  
+- 🛍️ E-commerce & Landing Pages  
+
+👉 **All projects:**  
+🔗 https://github.com/mdzihad42
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://bd.linkedin.com/in/md-zihad-hossain-580074387">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="https://www.facebook.com/share/1j4cptseyf/">
+    <img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+  </a>
+</p>
+
+<p align="center">
+📧 <strong>zihadhossain.dev@gmail.com</strong><br/>
+🌐 <a href="https://zihad.crsyndicate.info/">zihad.crsyndicate.info</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mdzihad42&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzihad42&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdzihad42&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🎧 Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
+</p>
+
+---
+
+<h3 align="center">
+⭐ If you like my work, star my repositories and let’s connect 🚀
+</h3>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,100:00E5FF&height=120&section=footer"/>
