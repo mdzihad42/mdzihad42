@@ -1,102 +1,92 @@
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C4DFF&height=200&section=header&text=MD%20ZIHAD%20HOSSAIN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:306998,100:FFD43B&height=220&section=header&text=MD%20ZIHAD%20HOSSAIN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
 
-<h3 align="center">
-🚀 Full-Stack Web Developer | Django & React
+<h3 align="center" style="background: linear-gradient(to right, #306998, #FFD43B); -webkit-background-clip: text; color: transparent;">
+🚀 Full‑Stack Web Developer | Django & React
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Django+%7C+DRF+%7C+Python+Expert;React+Frontend+Learner;Building+Real-World+Web+Apps;Clean+Code+%7C+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=306998&center=true&vCenter=true&width=750&lines=Full‑Stack+Web+Developer;Django+%7C+DRF+%7C+Python+Expert;React+Frontend+Learner;Building+Real‑World+Web+Apps;Clean+Code+%7C+Scalable+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdzihad42&label=Profile+Views&color=7C4DFF&style=flat"/>
-  <img src="https://img.shields.io/github/followers/mdzihad42?label=Followers&style=flat&color=00E5FF"/>
-  <img src="https://img.shields.io/github/stars/mdzihad42?label=Stars&style=flat&color=ffcc00"/>
+  <img src="https://komarev.com/ghpvc/?username=mdzihad42&label=Profile+Views&color=306998&style=flat"/>
+  <img src="https://img.shields.io/github/followers/mdzihad42?label=Followers&style=flat&color=306998"/>
 </p>
 
-<hr/>
+<hr style="border: 2px solid #306998; border-radius: 5px;">
 
-<!-- ===================== ABOUT ===================== -->
-<h2>👋 About Me</h2>
+## 👋 About Me
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+🧑‍💻 I’m **MD Zihad Hossain**, a passionate Full‑Stack Web Developer building clean, scalable, and real‑world web applications.  
+Backend focused with **Django & Django REST Framework**. Currently leveling up frontend with **React.js**.
 
-<p>
-I’m <strong>MD Zihad Hossain</strong>, a passionate <strong>Full-Stack Web Developer</strong> who enjoys building clean,
-scalable, and real-world web applications.
+**Core Strengths**
+- 💡 Backend logic & API design
+- 🧠 Problem solving mindset
+- 🛠️ Building systems from scratch
+- 🚀 Continuous learner
+
+<hr style="border: 2px solid #FFD43B; border-radius: 5px;">
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgresql,sqlite,git,github,linux,bootstrap&perline=8"/>
 </p>
 
-<p>
-My core strength is backend development with <strong>Django & Django REST Framework</strong>,
-and I’m actively learning <strong>React.js</strong> to build modern and smooth user interfaces.
-</p>
+<hr style="border: 2px solid #306998; border-radius: 5px;">
+
+## 📂 Featured Projects
+
+Here are some projects I’ve built:
 
 <ul>
-  <li>💡 Strong backend logic & API design</li>
-  <li>🧠 Problem solver mindset</li>
-  <li>🛠️ Love building systems from scratch</li>
-  <li>🚀 Continuous learner</li>
+  <li>🧑‍💼 <strong>Job Portal & Resume Builder</strong> — Complete multi‑module web app</li>
+  <li>🏫 <strong>School Management System</strong> — Admin | Teacher | Student roles</li>
+  <li>💬 <strong>Real‑Time Chat Application</strong> — Socket / WebRTC based</li>
+  <li>📝 <strong>Emotion Diary App</strong> — Personal productivity tool</li>
+  <li>🛍️ <strong>E‑commerce & Landing Pages</strong> — Bootstrap / Django driven UI</li>
 </ul>
 
-<hr/>
+👉 **All projects:** <a href="https://github.com/mdzihad42" style="color:#FFD43B; font-weight:bold;">github.com/mdzihad42</a>
 
-<!-- ===================== CURRENT FOCUS ===================== -->
-<h2>🎯 Current Focus</h2>
+<hr style="border: 2px solid #306998; border-radius: 5px;">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350"/>
-</p>
-
-<ul>
-  <li>🌱 Advanced React.js</li>
-  <li>⚙️ Django REST API optimization</li>
-  <li>🧩 Full-stack system architecture</li>
-  <li>📦 Production-ready project development</li>
-</ul>
-
-<hr/>
-
-<!-- ===================== TECH STACK ===================== -->
-<h2>🛠️ Tech Stack</h2>
-
-<h3>Languages & Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css&perline=6"/>
-</p>
-
-<h3>Database & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,git,github,linux,bootstrap&perline=6"/>
-</p>
-
-<hr/>
-
-<!-- ===================== PROJECTS ===================== -->
-<h2>📂 Featured Projects</h2>
+## 📊 GitHub Stats (Python Theme)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mdzihad42&show_icons=true&theme=python&hide_border=false"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzihad42&layout=compact&theme=python&hide_border=false"/>
 </p>
 
-<ul>
-  <li>🧑‍💼 Job Portal & Resume Builder</li>
-  <li>🏫 School Management System</li>
-  <li>💬 Real-Time Chat Application</li>
-  <li>📝 Emotion Diary App</li>
-  <li>🛍️ E-commerce & Landing Pages</li>
-</ul>
-
-<p>
-👉 <strong>All projects:</strong>
-<a href="https://github.com/mdzihad42">github.com/mdzihad42</a>
+<h3 align="center">🔥 Contribution Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdzihad42&theme=python&hide_border=false"/>
 </p>
 
-<hr/>
+<h3 align="center">🐍 Full‑Body Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?scale=6" alt="Full Body Snake"/>
+</p>
 
-<!-- ===================== CONNECT ===================== --
-<h2><!-- ===================== CONNECT ===================== -->
-<h2 align="center">🌐 Connect With Me</h2>
+<hr style="border: 2px solid #FFD43B; border-radius: 5px;">
+
+## ⏱ WakaTime Coding Activity
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/2f56058f-e844-462d-96ea-9c966e7e8d77.svg" alt="WakaTime Coding Activity" height="40"/>
+</p>
+
+<p align="center">
+  _Tracking daily coding time & consistency_
+</p>
+
+<hr style="border: 2px solid #306998; border-radius: 5px;">
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://bd.linkedin.com/in/md-zihad-hossain-580074387">
@@ -108,67 +98,26 @@ and I’m actively learning <strong>React.js</strong> to build modern and smooth
   </a>
 </p>
 
-<p align="center">
-📧 <strong>zihadhossain.dev@gmail.com</strong><br/>
-🌐 <a href="https://zihad.crsyndicate.info/">zihad.crsyndicate.info</a>
-</p>
+📧 **zihadhossain.dev@gmail.com**  
+🌐 https://zihad.crsyndicate.info/
 
-<hr/>
+<hr style="border: 2px solid #FFD43B; border-radius: 5px;">
 
-<!-- ===================== GITHUB STATS ===================== -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mdzihad42&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzihad42&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<h3 align="center">🔥 Contribution Streak</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdzihad42&theme=tokyonight&hide_border=true"/>
-</p>
-
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<hr/>
-
-<!-- ===================== WAKATIME ===================== -->
-<h2 align="center">⏱ Coding Activity</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
-</p>
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/2f56058f-e844-462d-96ea-9c966e7e8d77.svg"
-       alt="WakaTime Coding Activity"
-       height="30"/>
-</p>
-
-<p align="center">
-  <em>Tracking my daily coding time and consistency</em>
-</p>
-
-<hr/>
-
-<!-- ===================== VIBES ===================== -->
-<h2 align="center">🎧 Coding Vibes</h2>
+## 🎧 Coding Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
 </p>
 
 <h3 align="center">
-⭐ If you like my work, star my repositories and let’s connect 🚀
+⭐ If you like my work, star my repositories!
 </h3>
 
 <p align="center">
-  Made with ❤️ from Bangladesh<br/>
-  <strong>MD ZIHAD HOSSAIN</strong>
+  Made with ❤️ from Bangladesh  
+  **MD ZIHAD HOSSAIN**
 </p>
 
-<!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,100:00E5FF&height=140&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:306998,100:FFD43B&height=140&section=footer"/>
+</p>
