@@ -89,7 +89,7 @@ Here are some projects I’ve built:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://bd.linkedin.com/in/md-zihad-hossain-580074387">
+  <a href="https://bd.linkedin.com/in/mdzihad-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
